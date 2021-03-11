@@ -2,4 +2,4 @@ web:
   build: .
   restart: always
   environment:
-    - TELEGRAM_TOKEN=your_token_here
+    - TELEGRAM_TOKEN=1696954403:AAFirxVm4p-LBqPs2Yxx8bkfqhYgosD4dUc
